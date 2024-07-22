@@ -7,7 +7,7 @@
 [![酷安](https://img.shields.io/badge/酷安-GUIQI-yello)](http://www.coolapk.com/u/22093725)
 
 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/无可救药的-二次猿-red)
 
 </div>
 
