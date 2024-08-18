@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](image/IMG_2456.png)
+![头像](image/new_IMG_0760.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/GUIQI008/count.svg)
 
