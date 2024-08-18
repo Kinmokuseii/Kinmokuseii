@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUIQI008&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinmokuseii&show_icons=true&theme=radical)
 
 [![酷安](https://img.shields.io/badge/酷安-kinmokusei-yello)](http://www.coolapk.com/u/22093725)
 
