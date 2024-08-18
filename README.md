@@ -4,10 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUIQI008&show_icons=true&theme=radical)
 
-[![酷安](https://img.shields.io/badge/酷安-GUIQI-yello)](http://www.coolapk.com/u/22093725)
+[![酷安](https://img.shields.io/badge/酷安-kinmokusei-yello)](http://www.coolapk.com/u/22093725)
 
 
-![](https://img.shields.io/badge/无可救药的-二次猿-red)
+[![博客](https://img.shields.io/badge/博客-kinmokusei-blue)](http://blog.kinmokusei.cyou)
+
+
+[![个人主页](https://img.shields.io/badge/主页-kinmokusei-white)](http://kinmokusei.cyou)
 
 </div>
 
