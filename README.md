@@ -14,8 +14,8 @@
 
 </div>
 
-![头像](image/new_IMG_0760.png)
+![头像](https://github.com/Kinmokuseii/Kinmokuseii/blob/main/image/new_%E3%80%90%E8%93%9D%E7%9C%BC%E7%9D%9B%E3%80%912024-06-20%2023_59_31.png)
 
-![Visitor Count](https://profile-counter.glitch.me/GUIQI008/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Kinmokuseii/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Kinmokusei
